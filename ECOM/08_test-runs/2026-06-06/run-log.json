@@ -1,0 +1,176 @@
+{
+  "date": "2026-06-07 00:34",
+  "total": 127,
+  "pass": 21,
+  "fail": 15,
+  "skip": 2,
+  "manual": 89,
+  "failures": [
+    {
+      "tc": "TC_11.1",
+      "note": "Không tìm thấy logo",
+      "evidence": "C:\\Users\\ASUS\\Documents\\Pineline\\ECOM\\08_test-runs\\2026-06-06\\evidence\\screenshots\\FAIL_TC_11_1__002716.png"
+    },
+    {
+      "tc": "TC_11.9",
+      "note": "Không thấy thông tin chu kỳ",
+      "evidence": "C:\\Users\\ASUS\\Documents\\Pineline\\ECOM\\08_test-runs\\2026-06-06\\evidence\\screenshots\\FAIL_TC_11_9__002815.png"
+    },
+    {
+      "tc": "TC_11.20",
+      "note": "Không thấy btn X sau khi nhập SĐT",
+      "evidence": "C:\\Users\\ASUS\\Documents\\Pineline\\ECOM\\08_test-runs\\2026-06-06\\evidence\\screenshots\\FAIL_TC_11_20__002852.png"
+    },
+    {
+      "tc": "TC_11.21",
+      "note": "Không thấy btn X",
+      "evidence": "C:\\Users\\ASUS\\Documents\\Pineline\\ECOM\\08_test-runs\\2026-06-06\\evidence\\screenshots\\FAIL_TC_11_21__002910.png"
+    },
+    {
+      "tc": "TC_11.23",
+      "note": "Field chấp nhận ký tự: \"abc!@#\"",
+      "evidence": "C:\\Users\\ASUS\\Documents\\Pineline\\ECOM\\08_test-runs\\2026-06-06\\evidence\\screenshots\\FAIL_TC_11_23__002917.png"
+    },
+    {
+      "tc": "TC_11.24",
+      "note": "Không có thông báo lỗi SĐT đầu khác 0",
+      "evidence": "C:\\Users\\ASUS\\Documents\\Pineline\\ECOM\\08_test-runs\\2026-06-06\\evidence\\screenshots\\FAIL_TC_11_24__002930.png"
+    },
+    {
+      "tc": "TC_11.26",
+      "note": "Không tìm thấy field Email",
+      "evidence": "C:\\Users\\ASUS\\Documents\\Pineline\\ECOM\\08_test-runs\\2026-06-06\\evidence\\screenshots\\FAIL_TC_11_26__002959.png"
+    },
+    {
+      "tc": "TC_11.27",
+      "note": "Không tìm thấy field Email",
+      "evidence": "C:\\Users\\ASUS\\Documents\\Pineline\\ECOM\\08_test-runs\\2026-06-06\\evidence\\screenshots\\FAIL_TC_11_27__003025.png"
+    },
+    {
+      "tc": "TC_11.28",
+      "note": "Không tìm thấy field Email",
+      "evidence": "C:\\Users\\ASUS\\Documents\\Pineline\\ECOM\\08_test-runs\\2026-06-06\\evidence\\screenshots\\FAIL_TC_11_28__003051.png"
+    },
+    {
+      "tc": "TC_11.29",
+      "note": "Không có thông báo lỗi khi Email trống",
+      "evidence": "C:\\Users\\ASUS\\Documents\\Pineline\\ECOM\\08_test-runs\\2026-06-06\\evidence\\screenshots\\FAIL_TC_11_29__003104.png"
+    },
+    {
+      "tc": "TC_11.30",
+      "note": "Không tìm thấy field Email",
+      "evidence": "C:\\Users\\ASUS\\Documents\\Pineline\\ECOM\\08_test-runs\\2026-06-06\\evidence\\screenshots\\FAIL_TC_11_30__003130.png"
+    },
+    {
+      "tc": "TC_11.31",
+      "note": "Không tìm thấy field Email",
+      "evidence": "C:\\Users\\ASUS\\Documents\\Pineline\\ECOM\\08_test-runs\\2026-06-06\\evidence\\screenshots\\FAIL_TC_11_31__003156.png"
+    },
+    {
+      "tc": "TC_11.32",
+      "note": "Không tìm thấy field Email",
+      "evidence": "C:\\Users\\ASUS\\Documents\\Pineline\\ECOM\\08_test-runs\\2026-06-06\\evidence\\screenshots\\FAIL_TC_11_32__003222.png"
+    },
+    {
+      "tc": "TC_11.33",
+      "note": "Không tìm thấy dropdown Tỉnh/TP",
+      "evidence": "C:\\Users\\ASUS\\Documents\\Pineline\\ECOM\\08_test-runs\\2026-06-06\\evidence\\screenshots\\FAIL_TC_11_33__003249.png"
+    },
+    {
+      "tc": "TC_11.111",
+      "note": "Không tìm thấy link điều khoản",
+      "evidence": "C:\\Users\\ASUS\\Documents\\Pineline\\ECOM\\08_test-runs\\2026-06-06\\evidence\\screenshots\\FAIL_TC_11_111__003428.png"
+    }
+  ],
+  "manual_list": [
+    "TC_11.4",
+    "TC_11.6",
+    "TC_11.34",
+    "TC_11.35",
+    "TC_11.36",
+    "TC_11.37",
+    "TC_11.38",
+    "TC_11.39",
+    "TC_11.40",
+    "TC_11.41",
+    "TC_11.42",
+    "TC_11.43",
+    "TC_11.44",
+    "TC_11.45",
+    "TC_11.46",
+    "TC_11.47",
+    "TC_11.48",
+    "TC_11.49",
+    "TC_11.52",
+    "TC_11.55",
+    "TC_11.56",
+    "TC_11.57",
+    "TC_11.58",
+    "TC_11.59",
+    "TC_11.60",
+    "TC_11.61",
+    "TC_11.62",
+    "TC_11.63",
+    "TC_11.64",
+    "TC_11.65",
+    "TC_11.67",
+    "TC_11.69",
+    "TC_11.70",
+    "TC_11.71",
+    "TC_11.72",
+    "TC_11.73",
+    "TC_11.74",
+    "TC_11.75",
+    "TC_11.76",
+    "TC_11.77",
+    "TC_11.78",
+    "TC_11.79",
+    "TC_11.80",
+    "TC_11.81",
+    "TC_11.82",
+    "TC_11.83",
+    "TC_11.84",
+    "TC_11.85",
+    "TC_11.86",
+    "TC_11.87",
+    "TC_11.88",
+    "TC_11.89",
+    "TC_11.90",
+    "TC_11.91",
+    "TC_11.92",
+    "TC_11.93",
+    "TC_11.94",
+    "TC_11.95",
+    "TC_11.96",
+    "TC_11.97",
+    "TC_11.98",
+    "TC_11.100",
+    "TC_11.101",
+    "TC_11.102",
+    "TC_11.103",
+    "TC_11.104",
+    "TC_11.105",
+    "TC_11.106",
+    "TC_11.107",
+    "TC_11.108",
+    "TC_11.109",
+    "TC_11.110",
+    "TC_11.113",
+    "TC_11.114",
+    "TC_11.121",
+    "TC_11.122",
+    "TC_11.123",
+    "TC_11.124",
+    "TC_11.125",
+    "TC_11.126",
+    "TC_11.127",
+    "TC_11.128",
+    "TC_11.129",
+    "TC_11.130",
+    "TC_11.131",
+    "TC_11.132",
+    "TC_11.133",
+    "TC_11.134",
+    "TC_11.135"
+  ]
+}
